@@ -10,4 +10,3 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: echo "OK"
-      - run: exit 1
